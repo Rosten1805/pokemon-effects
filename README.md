@@ -26,3 +26,4 @@ Efectos visuales sin usar JavaScript
 Diseño responsive (adaptable a distintas pantallas)
 
 Estética basada en la saga de videojuegos Pokémon
+![Captura de pantalla 2025-06-11 164048](https://github.com/user-attachments/assets/4174794b-3ea4-4705-b34e-905f4e62fa70)
