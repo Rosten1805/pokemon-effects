@@ -16,6 +16,7 @@ Animaciones
 Sombras y transformaciones
 
 🎨 Características principales
+
 Animaciones suaves al pasar el cursor (hover)
 
 Uso de flexbox para distribuir elementos
